@@ -2,7 +2,7 @@
   "name": "test-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https//sani071.github.io/react-shop",
+  "homepage": "https//sani071.github.io/React-Shop",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
