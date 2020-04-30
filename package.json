@@ -9,7 +9,7 @@
     "classnames": "^2.2.6",
     "elemental": "^0.6.1",
     "gh-pages": "^2.0.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "mdbootstrap": "^4.7.1",
     "react": "^16.4.1",
     "react-desktop": "^0.3.9",
